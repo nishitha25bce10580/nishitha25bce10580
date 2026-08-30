@@ -1,6 +1,6 @@
 # Hi, I'm Bagepalli Nishitha 👋
 
-🎓 B.Tech Core CSE | 1st Year  
+🎓 B.Tech Core CSE | 2nd Year  
 🏫 VIT Bhopal University  
 💡 Aspiring Software Developer  
 
@@ -16,6 +16,7 @@ I am a first-year Computer Science student passionate about learning new technol
 - Problem Solving
 - GitHub & Version Control
 - Digital Literacy & Online Professional Presence
+- UX Research
 
 ---
 
