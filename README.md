@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-I am a first-year Computer Science student passionate about learning new technologies and building a strong foundation in programming and digital skills. I am currently exploring coding platforms, digital tools, and professional development.
+I am a second-year Computer Science student passionate about learning new technologies and building a strong foundation in programming and digital skills. I am currently exploring coding platforms, digital tools, and professional development.
 
 ---
 
@@ -29,8 +29,7 @@ I am a first-year Computer Science student passionate about learning new technol
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Add your LinkedIn link here)
+- LinkedIn: www.linkedin.com/in/nishitha-bagepalli-733631380
 
 ---
 
-⭐ This profile is part of my Digital Literacy Portfolio Project
